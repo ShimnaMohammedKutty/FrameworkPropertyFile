@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-09T16:34:02 GST" name="Suite" finished-at="2024-11-09T16:34:56 GST" duration-ms="54650">
+    <groups>
+    </groups>
+    <test started-at="2024-11-09T16:34:02 GST" name="Test" finished-at="2024-11-09T16:34:56 GST" duration-ms="54650">
+      <class name="testngpropertyfile.Search">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Search@7c137fd5]" started-at="2024-11-09T16:34:44 GST" name="setup" finished-at="2024-11-09T16:34:49 GST" duration-ms="5120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchForExistingProduct()[pri:1, instance:testngpropertyfile.Search@7c137fd5]" started-at="2024-11-09T16:34:49 GST" name="verifySearchForExistingProduct" finished-at="2024-11-09T16:34:49 GST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchForExistingProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Search@7c137fd5]" started-at="2024-11-09T16:34:49 GST" name="teardown" finished-at="2024-11-09T16:34:49 GST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Search@7c137fd5]" started-at="2024-11-09T16:34:49 GST" name="setup" finished-at="2024-11-09T16:34:52 GST" duration-ms="3026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchForNonExistingProduct()[pri:2, instance:testngpropertyfile.Search@7c137fd5]" started-at="2024-11-09T16:34:52 GST" name="verifySearchForNonExistingProduct" finished-at="2024-11-09T16:34:53 GST" duration-ms="328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchForNonExistingProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Search@7c137fd5]" started-at="2024-11-09T16:34:53 GST" name="teardown" finished-at="2024-11-09T16:34:53 GST" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Search@7c137fd5]" started-at="2024-11-09T16:34:53 GST" name="setup" finished-at="2024-11-09T16:34:56 GST" duration-ms="3285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchWithOutProduct()[pri:3, instance:testngpropertyfile.Search@7c137fd5]" started-at="2024-11-09T16:34:56 GST" name="verifySearchWithOutProduct" finished-at="2024-11-09T16:34:56 GST" duration-ms="247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchWithOutProduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Search@7c137fd5]" started-at="2024-11-09T16:34:56 GST" name="teardown" finished-at="2024-11-09T16:34:56 GST" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testngpropertyfile.Search -->
+      <class name="testngpropertyfile.Register">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Register@231f98ef]" started-at="2024-11-09T16:34:26 GST" name="setup" finished-at="2024-11-09T16:34:30 GST" duration-ms="3546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithMandatoryyField()[pri:1, instance:testngpropertyfile.Register@231f98ef]" started-at="2024-11-09T16:34:30 GST" name="registerWithMandatoryyField" finished-at="2024-11-09T16:34:31 GST" duration-ms="1174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithMandatoryyField -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Register@231f98ef]" started-at="2024-11-09T16:34:31 GST" name="teardown" finished-at="2024-11-09T16:34:31 GST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Register@231f98ef]" started-at="2024-11-09T16:34:31 GST" name="setup" finished-at="2024-11-09T16:34:38 GST" duration-ms="6602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithAllFields()[pri:2, instance:testngpropertyfile.Register@231f98ef]" started-at="2024-11-09T16:34:38 GST" name="registerWithAllFields" finished-at="2024-11-09T16:34:39 GST" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithAllFields -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Register@231f98ef]" started-at="2024-11-09T16:34:39 GST" name="teardown" finished-at="2024-11-09T16:34:39 GST" duration-ms="128" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Register@231f98ef]" started-at="2024-11-09T16:34:39 GST" name="setup" finished-at="2024-11-09T16:34:43 GST" duration-ms="3902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerWithoutFieldsDisplayMessages()[pri:3, instance:testngpropertyfile.Register@231f98ef]" started-at="2024-11-09T16:34:43 GST" name="registerWithoutFieldsDisplayMessages" finished-at="2024-11-09T16:34:43 GST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerWithoutFieldsDisplayMessages -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Register@231f98ef]" started-at="2024-11-09T16:34:43 GST" name="teardown" finished-at="2024-11-09T16:34:44 GST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testngpropertyfile.Register -->
+      <class name="testngpropertyfile.Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:02 GST" name="setup" finished-at="2024-11-09T16:34:06 GST" duration-ms="4434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidCredentials()[pri:1, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:06 GST" name="loginWithValidCredentials" finished-at="2024-11-09T16:34:07 GST" duration-ms="718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:07 GST" name="teardown" finished-at="2024-11-09T16:34:07 GST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:07 GST" name="setup" finished-at="2024-11-09T16:34:11 GST" duration-ms="3904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInValidCredentials()[pri:2, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:11 GST" name="loginWithInValidCredentials" finished-at="2024-11-09T16:34:12 GST" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInValidCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:12 GST" name="teardown" finished-at="2024-11-09T16:34:12 GST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:12 GST" name="setup" finished-at="2024-11-09T16:34:16 GST" duration-ms="4209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInValidEmailValidPassword()[pri:3, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:16 GST" name="loginWithInValidEmailValidPassword" finished-at="2024-11-09T16:34:17 GST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInValidEmailValidPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:17 GST" name="teardown" finished-at="2024-11-09T16:34:17 GST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:17 GST" name="setup" finished-at="2024-11-09T16:34:21 GST" duration-ms="4335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidEmailInValidPassword()[pri:3, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:21 GST" name="loginWithValidEmailInValidPassword" finished-at="2024-11-09T16:34:22 GST" duration-ms="593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidEmailInValidPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:22 GST" name="teardown" finished-at="2024-11-09T16:34:22 GST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:22 GST" name="setup" finished-at="2024-11-09T16:34:25 GST" duration-ms="3368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithOutAnyCredentials()[pri:5, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:25 GST" name="loginWithOutAnyCredentials" finished-at="2024-11-09T16:34:26 GST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithOutAnyCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testngpropertyfile.Login@75d3a5e0]" started-at="2024-11-09T16:34:26 GST" name="teardown" finished-at="2024-11-09T16:34:26 GST" duration-ms="178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testngpropertyfile.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
